@@ -2,4 +2,4 @@
 
 Bienvenid@
 
-Incluyendo bases de datos
+Incluyendo bases de datos sql
